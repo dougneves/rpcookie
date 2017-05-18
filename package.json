@@ -1,0 +1,29 @@
+{
+  "name": "rpcookie",
+  "version": "1.0.0",
+  "description": "A simple javascript library to make inter tab/window communication",
+  "main": "rpcookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00cpxxx/rpcookie.git"
+  },
+  "keywords": [
+    "javascript",
+    "cookies",
+    "tab",
+    "communication"
+  ],
+  "author": "00cpxxx@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/00cpxxx/rpcookie/issues"
+  },
+  "homepage": "https://github.com/00cpxxx/rpcookie#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "uglify-js": "^2.8.22"
+  }
+}
